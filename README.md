@@ -132,11 +132,7 @@ Kode tersebut membuat **objek overlay berwarna pada area tertentu pada gambar**.
 ## Video Presentasi
 
 Link Video Presentasi YouTube:
-
-```
-Masukkan link YouTube di sini
-```
-
+# https://youtu.be/q5YJyNpMsnw
 ---
 
 ## Kesimpulan
